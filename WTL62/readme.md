@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [sat1l](https://github.com/yourusername)
+* Keyboard Maintainer: [Satell1te](https://github.com/yourusername)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
