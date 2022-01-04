@@ -1,4 +1,4 @@
-# WTL62-QMK
+# wtl62
 
 #### Use guide
 clone wtl62 folder to qmk_firmware/keyboards
