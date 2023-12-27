@@ -1,6 +1,6 @@
 # wtl62
 
-#### Hadrware disclaimer
+#### Hardware disclaimer
 The folder structure is fucked up and probably wont be fixed as i see no reason for this.
 Top case part (plate) is located in the bottom case part folder, and this one is located in the general pcb folder. Yeah.
 There's also Willing To Live Better 62 inside, but this one proly wont' see a light of day as there prolly aint no interest in this design. Have fun.
